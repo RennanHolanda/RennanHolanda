@@ -1,7 +1,7 @@
 ### olá! Eu sou o Bruno Rennan
 
 - 🔭 Hoje trabalho como Full Stack
-- 🌱 Estudando React
+- 🌱 Estudando React e TS
 - 😄 Pronouns: ele/dele
 
 <div align="center">
