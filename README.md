@@ -1,4 +1,4 @@
-### olá! Eu sou o Bruno Rennan Holanda
+### olá! Eu sou o Bruno Rennan
 
 - 🔭 Hoje trabalho como Full Stack
 - 🌱 Estudando React e TS
