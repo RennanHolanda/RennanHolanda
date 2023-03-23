@@ -1,6 +1,6 @@
-### olá! Eu sou o Bruno Rennan
+### Olá! Eu sou o Bruno Rennan
 
-- 🔭 Hoje trabalho como Full Stack
+- 🔭 Hoje trabalho como Desenvolvedor WebFull Stack
 - 🌱 Estudando React e TS
 - 😄 Pronouns: ele/dele
 
